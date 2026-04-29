@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Mac system files
+.DS_Store
+
+# Distribution folder
+/dist/
+
+# Build folder
+/build/
+
+# Log files
+/logs/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Database backup
+/db_backup/
